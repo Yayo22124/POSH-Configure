@@ -1,2 +1,3 @@
 # POSH-Configure
-This is my personal configuration to Windows Terminal and Powershell 7.  In this repository I have placed the commands, files and so on to configure Powershell on my Windows devices.
+Esta es una pequeña guía para configurar Powershell a mi gusto y tener una terminal en Windows (10 o 11) casi tan bonita como una
+terminal de Linux.
