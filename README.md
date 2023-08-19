@@ -33,7 +33,7 @@ winget install --id Microsoft.Powershell.Preview --source winget
 
 
 ## Paso 3: Instalar una fuente que soporte íconos
-Nuestra terminal debe tener soporte para ícono dentro de la misma, para ello es necesario instalar una fuente que pueda soportarlo, siempre me he decantado por usar [Nerd Fonts][https://www.nerdfonts.com/font-downloads] para instalar mis fuentes en mis diferentes sistemas como Linux o Windows, para este caso yo recomiendo mucho descargar **Hack Nerd Font**, ya que se ve muy bien en la terminal y soporta una gran variedad de íconos:  
+Nuestra terminal debe tener soporte para ícono dentro de la misma, para ello es necesario instalar una fuente que pueda soportarlo, siempre me he decantado por usar [NerdFonts]: https://www.nerdfonts.com/font-downloads para instalar mis fuentes en mis diferentes sistemas como Linux o Windows, para este caso yo recomiendo mucho descargar **Hack Nerd Font**, ya que se ve muy bien en la terminal y soporta una gran variedad de íconos:  
 
 
 <p align="center"><img width="auto" height="auto" src="/img/nerdfont.png" alt="Installing Hack Nerd Font"></p>  
