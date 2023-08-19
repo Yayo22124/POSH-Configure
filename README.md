@@ -26,7 +26,7 @@ Si quieres instalar la versión preliminar o beta (Powershell Preview), ejecuta 
 #Esto para instalar Powershell 7 preview o beta
 winget install --id Microsoft.Powershell.Preview --source winget
 ```   
-> **NOTE**: Si en la terminal te aparece un mensaje para preguntar sí estas de acuerdo con instalar los paquetes solicitados, solo escribe "Y" (yes) o "A" (todo), y luego pulsa ***enter**
+> **NOTA**: Si en la terminal te aparece un mensaje para preguntar sí estas de acuerdo con instalar los paquetes solicitados, solo escribe "Y" (yes) o "A" (todo), y luego pulsa ***enter**
 
 
 <p align="center"><img width="auto" height="auto" src="/img/posh7-install.png" alt="Installing POSH 7"></p>
