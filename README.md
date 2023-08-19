@@ -40,7 +40,7 @@ Nuestra terminal debe tener soporte para ícono dentro de la misma, para ello es
 
 Una vez descargada solo hay que abrirla en el **explorador de archivos** de Windows y descomprimir la carpeta **.zip** que se descargo:
 
-<p align="center"><img width="auto" height="auto" src="/img/descomprimir.zip" alt="Uncompressing Hack.zip"></p>  
+<p align="center"><img width="auto" height="auto" src="/img/descomprimir.png" alt="Uncompressing Hack.zip"></p>  
 
 Una vez descomprimida solo hay que instalar todos los archivos **.ttf** evitando seleccionar los archivos **README.md** y **License**:  
 
