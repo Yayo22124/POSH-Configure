@@ -49,4 +49,4 @@ Una vez descomprimida solo hay que instalar todos los archivos **.ttf** evitando
 
 
 
-[nerfonts]: https://www.nerdfonts.com/font-downloads
+[nerdfonts]: https://www.nerdfonts.com/font-downloads
