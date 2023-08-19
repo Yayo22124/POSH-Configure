@@ -12,9 +12,13 @@ Actualmente Windows ha mejorado mucho su terminal propia, siendo que ahora el an
 ## Paso 2: Instalar Powershell 7
 Las versiones recientes de Windows 10 y Windows 11, ya traen por instaladas por defecto una versión de Powershell, sin embargo es recomendable instalar la última versión (Powershell 7), para ello solo debes abrir Windows Terminal, asegurándote de que se abra el perfil de **Powershell** y ejecutar lo siguiente:    
 ```powershell
+#Esto para instalar Powershell 7 estable
 winget install --id Microsoft.Powershell --source winget
 ```    
-Si quieres instalar la versión preliminar o beta (Powershell Preview), ejecuta el siguiente comando en lugar del anterior:    
-`winget install --id Microsoft.Powershell.Preview --source winget`    
+Si quieres instalar la versión preliminar o beta (Powershell Preview), ejecuta el siguiente comando en lugar del anterior: 
+```powershell
+#Esto para instalar Powershell 7 preview o beta
+winget install --id Microsoft.Powershell.Preview --source winget
+```   
 
 <p align="center"><img width="auto" height="auto" src="/img/posh7-install.png" alt="Installing POSH 7"></p>
