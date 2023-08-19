@@ -46,3 +46,7 @@ Una vez descomprimida solo hay que instalar todos los archivos **.ttf** evitando
 
 <p align="center"><img width="auto" height="auto" src="/img/install-fonts.png" alt="Installing all fonts"></p>  
 
+
+
+
+[nerfonts]: https://www.nerdfonts.com/font-downloads
