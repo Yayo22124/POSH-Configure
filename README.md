@@ -26,7 +26,23 @@ Si quieres instalar la versión preliminar o beta (Powershell Preview), ejecuta 
 #Esto para instalar Powershell 7 preview o beta
 winget install --id Microsoft.Powershell.Preview --source winget
 ```   
-> **NOTA**: Si en la terminal te aparece un mensaje para preguntar sí estas de acuerdo con instalar los paquetes solicitados, solo escribe "Y" (yes) o "A" (todo), y luego pulsa ***enter**
+> **NOTA**: Si en la terminal te aparece un mensaje para preguntar sí estas de acuerdo con instalar los paquetes solicitados, solo escribe "Y" (yes) o "A" (todo), y luego pulsa **enter**
 
 
-<p align="center"><img width="auto" height="auto" src="/img/posh7-install.png" alt="Installing POSH 7"></p>
+<p align="center"><img width="auto" height="auto" src="/img/posh7-install.png" alt="Installing POSH 7"></p>  
+
+
+## Paso 3: Instalar una fuente que soporte íconos
+Nuestra terminal debe tener soporte para ícono dentro de la misma, para ello es necesario instalar una fuente que pueda soportarlo, siempre me he decantado por usar [Nerd Fonts][https://www.nerdfonts.com/font-downloads] para instalar mis fuentes en mis diferentes sistemas como Linux o Windows, para este caso yo recomiendo mucho descargar **Hack Nerd Font**, ya que se ve muy bien en la terminal y soporta una gran variedad de íconos:  
+
+
+<p align="center"><img width="auto" height="auto" src="/img/nerdfont.png" alt="Installing Hack Nerd Font"></p>  
+
+Una vez descargada solo hay que abrirla en el **explorador de archivos** de Windows y descomprimir la carpeta **.zip** que se descargo:
+
+<p align="center"><img width="auto" height="auto" src="/img/descomprimir.zip" alt="Uncompressing Hack.zip"></p>  
+
+Una vez descomprimida solo hay que instalar todos los archivos **.ttf** evitando seleccionar los archivos **README.md** y **License**:  
+
+<p align="center"><img width="auto" height="auto" src="/img/install-fonts.png" alt="Installing all fonts"></p>  
+
